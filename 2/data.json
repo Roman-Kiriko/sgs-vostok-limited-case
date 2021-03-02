@@ -1,0 +1,54 @@
+{
+    "city": {
+        "Moscow": "Москва",
+        "SP": "Санкт-Петербург",
+        "Penza": "Пенза"
+    },
+    "guilds": {
+        "Moscow": {
+            "guild-1": "Цех-1",
+            "guild-2": "Цех-2"
+        },  
+        "SP": {
+            "guild-3": "Цех-3",
+            "guild-4": "Цех-4"
+        },
+        "Penza": {
+            "guild-5": "Цех-5",
+            "guild-6": "Цех-6",
+            "guild-7": "Цех-7"
+        }
+    },
+    "employees": {
+        "guild-1": {
+            "Ivan-Ivanov": "Иван Иванов",
+            "Petr-Petrov": "Петр Петров",
+            "Sidr-Sidorov": "Сидр Сидоров"
+        },
+        "guild-2": {
+            "Alexey-Alexeev": "Алексей Алесеев",
+            "Roman-Romanov": "Роман Романов"
+        },
+        "guild-3": {
+            "Ignat-Ignatyev": "Игнат Игнатьев",
+            "Ibragim-Ibragimov": "Ибрагим Ибрагимов"
+        },
+        "guild-4": {
+            "Sergey-Segeev": "Сергей Сергеев",
+            "Ruslan-Ruslanov": "Руслан Русланов"
+        },
+        "guild-5": {
+            "Oleg-Olegov": "Олег Олегов",
+            "Genadiy-Genadyev": "Генадий Генадьев"
+        },
+        "guild-6": {
+            "Trofim-Trofimov": "Трофим Трофимов",
+            "Maxim-Maximov": "Максим Максимов"
+        },
+        "guild-7": {
+            "Kirill-Kirillov": "Кирилл Кириллов",
+            "Nikolay-Krylov": "Николай Крылов"
+        }
+    }
+
+}

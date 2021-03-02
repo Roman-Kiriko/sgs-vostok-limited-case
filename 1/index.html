@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Форма</title>
+</head>
+
+<body>
+    <main>
+        <form id="form-1">
+            <fieldset style="width: 500px; margin: 50px auto;">
+                <div class="city">
+                    <select name="city" id="city">
+                    </select>
+                </div>
+                <div class="guilds">
+                    <select name="guilds" id="guilds">
+                    </select>
+                </div>
+                <div class="employee">
+                    <select name="employee" id="employee">
+                    </select>
+                </div>
+                <div class="brigade">
+                    <select name="brigade" id="brigade">
+                        <option value="day">С 8:00 до 20:00</option>
+                        <option value="night">С 20:00 до 8:00</option>
+                    </select>
+                </div>
+                <div class="shift">
+                    <select name="shift" id="shift">
+                        <option value="first">Первая смена</option>
+                        <option value="second">Вторая смена</option>
+                    </select>
+                </div>
+                <div class="submit">
+                    <input type="submit" id="submit" value="Отправить">
+                </div>
+            </fieldset>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+
+</html>
